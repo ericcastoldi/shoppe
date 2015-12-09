@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The full commit history can be found [on GitHub](http://github.com/tryshoppe/core).
 
+
 ## Unreleased
 * ...
 
